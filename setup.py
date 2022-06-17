@@ -72,6 +72,8 @@ setup(
             'django-rgd-fmv[worker]',
             'django-rgd-imagery[worker]',
             'docker',
+            'laspy',
+            'pyntcloud',
         ],
     },
 )
